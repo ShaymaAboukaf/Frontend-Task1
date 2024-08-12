@@ -1,0 +1,48 @@
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #292c2d;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heading-primary,
+.heading-secondary,
+.heading-tertiary {
+  font-weight: 600;
+  color: #035781;
+}
+
+.heading-primary {
+  font-size: 8.8rem;
+  line-height: 1.6;
+  letter-spacing: 5px;
+}
+
+.heading-secondary {
+  font-size: 5rem;
+  line-height: 1.6;
+  letter-spacing: 2px;
+  margin-bottom: 2.4rem;
+}
+
+.accent-text {
+  color: #2387c2;
+}
+
+.yellow-text {
+  color: #ffd433;
+}
+
+.orange-text {
+  color: #f3704a;
+}
